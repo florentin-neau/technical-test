@@ -1,4 +1,4 @@
-# Automated API Test – /rewards endpoint (Cypress)
+# Automated UI Test – Earn Page (Cypress)
 
 This repository contains an automated test for the earn page in the Kiln widget
 
